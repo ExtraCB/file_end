@@ -40,6 +40,8 @@
                         <div class="border-bottom mt-3"></div>
                         <div align="center">
                             <a href="../page_login/register.php"><button type="submit" class="btn btn-success shadow mt-3" style="border-radius: 10px;">ลงทะเบียนเข้าใช้งาน</button></a>
+                            
+                            <a href="../web_test2/"><button  class="btn btn-success shadow mt-3" style="border-radius: 10px;" >งานที่ 2</button></a>
                         </div>
                     </div>
                 </div>
